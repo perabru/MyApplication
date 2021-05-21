@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "21306722211",
+    "firebase_url": "https://umhstqlqr.firebaseio.com",
+    "project_id": "umhstqlqr",
+    "storage_bucket": "umhstqlqr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21306722211:android:06c4ace680e7182d65bc16",
+        "android_client_info": {
+          "package_name": "com.brunosjc.aula2011"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21306722211-13f7rnfu8u3p41s9n9r5b2ogg77uaih5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brunosjc.aula2011",
+            "certificate_hash": "6d3032270c6c0ef9f4bda6fd809e1e645f3a680b"
+          }
+        },
+        {
+          "client_id": "21306722211-pn5dolch2cbsuv47lbcr8489v7rmj4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbzfidpLOk6p1fJB8LMYX9R5fsmKvzMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21306722211-pn5dolch2cbsuv47lbcr8489v7rmj4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21306722211:android:3ab813b84d26fc6565bc16",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21306722211-pn5dolch2cbsuv47lbcr8489v7rmj4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbzfidpLOk6p1fJB8LMYX9R5fsmKvzMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21306722211-pn5dolch2cbsuv47lbcr8489v7rmj4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
